@@ -1,2 +1,2 @@
 # Tweets-Analysis
-Usinf bert for tweet analysis
+Using bert for tweet analysis
